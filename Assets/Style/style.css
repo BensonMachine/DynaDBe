@@ -1,0 +1,167 @@
+#loginpage label {
+  font-weight: bold; }
+#loginpage .form-control-plaintext {
+  background-color: #E9EBEE !important; }
+#loginpage .internal-autofill-selected {
+  background-color: #E9EBEE !important; }
+#loginpage input:-internal-autofill-selected {
+  background-color: #E9EBEE !important; }
+#loginpage * {
+  font-family: 'arial'; }
+#loginpage .maincenter {
+  top: 50%;
+  border: 3px solid grey;
+  width: 600px;
+  border-radius: 25px;
+  text-align: center;
+  background-color: lightgray; }
+#loginpage .topmsg {
+  margin-top: 32px; }
+#loginpage .green {
+  color: green; }
+#loginpage .red {
+  color: red; }
+#loginpage .blue {
+  color: #333399; }
+#loginpage p {
+  font-weight: bold; }
+
+* .w100 {
+  width: 100%; }
+* .JapanLaurelbg {
+  background-color: #007f00; }
+* .greenbg {
+  background-color: green; }
+* .redbg {
+  background-color: red; }
+* .bluebg {
+  background-color: blue; }
+* .cyanbg {
+  background-color: cyan; }
+* .williambg {
+  background-color: #3d5f78; }
+* .StBluebg {
+  background-color: lightblue; }
+* .applebg {
+  background-color: limegreen; }
+* .mintbg {
+  background-color: palegreen; }
+* .salmonbg {
+  background-color: #f97e70; }
+* .Chiffonbg {
+  background-color: lemonchiffon; }
+* .Dodgerbg {
+  background-color: #1e8fff; }
+* .Ceruleanbg {
+  background-color: deepskyblue; }
+* .CornflowerBluebg {
+  background-color: #6195ed; }
+* .WebOrangebg {
+  background-color: orange; }
+* .deftablebg {
+  background-color: #3d5f78; }
+* .center {
+  text-align: center;
+  display: block; }
+* .bgcolorwhite {
+  background-color: #FFFFFF; }
+
+.divcomment {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 120px;
+  padding: 1em;
+  line-height: 1.4;
+  border-radius: 0;
+  border: none; }
+
+.divcomment:hover {
+  white-space: normal; }
+
+.advadmin h2 {
+  color: blue; }
+.advadmin h3 {
+  color: blue;
+  margin-top: 40px;
+  font-size: 20px; }
+.advadmin h4 {
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 20px; }
+.advadmin p {
+  color: green;
+  font-weight: bold;
+  margin-bottom: 0px; }
+.advadmin select {
+  font-size: 14px; }
+
+body {
+  font-size: 16px;
+  overflow-x: hidden; }
+
+
+.footer {
+  padding-top: 10px;
+  position: static;
+  bottom: 0;
+  height: 5rem;
+  background: #3466A5;
+  left: 0;
+  max-width: 100%;
+  text-align: center;
+  overflow: hidden; }
+  .footer p {
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif; }
+  .footer a {
+    color: red; }
+
+body {
+  background-color: #E9EBEE; }
+
+.main {
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  min-height: calc(100vh - 10rem);
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: #E9EBEE; }
+
+.header {
+  height: 5rem;
+  background-color: #3466A5;
+  width: 100%; }
+  .header p {
+    color: white !important;
+    margin: 0;
+    font-family: 'roboto'; }
+
+.Comments {
+  width: 300px;
+  height: 150px; }
+
+.thtd-th {
+  padding: 10px; }
+
+.thtd-th {
+  background-color: #3D5F78;
+  color: white; }
+
+.thtd-td {
+  background-color: lightblue;
+  min-width: 200px; }
+
+table {
+  border-collapse: separate !important;
+  margin-bottom: 30px; }
+
+textarea {
+  height: 300px;
+  width: 100%; }
+
+/*# sourceMappingURL=NuStyle.css.map */
